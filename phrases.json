@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "basic-01",
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "category": "pangram"
+  },
+  {
+    "id": "basic-02",
+    "text": "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+    "category": "tongue-twister"
+  },
+  {
+    "id": "basic-03",
+    "text": "She sells seashells by the seashore.",
+    "category": "tongue-twister"
+  },
+  {
+    "id": "basic-04",
+    "text": "Peter Piper picked a peck of pickled peppers.",
+    "category": "tongue-twister"
+  },
+  {
+    "id": "basic-05",
+    "text": "The rain in Spain stays mainly in the plain.",
+    "category": "elocution"
+  },
+  {
+    "id": "basic-06",
+    "text": "Hello world, this is a voice recording test.",
+    "category": "general"
+  },
+  {
+    "id": "numbers-01",
+    "text": "Please count from one to ten: one, two, three, four, five, six, seven, eight, nine, ten.",
+    "category": "counting"
+  },
+  {
+    "id": "numbers-02",
+    "text": "My phone number is five five five, one two three, four five six seven.",
+    "category": "numbers"
+  },
+  {
+    "id": "numbers-03",
+    "text": "The total comes to one hundred and twenty-seven dollars and fifty cents.",
+    "category": "numbers"
+  },
+  {
+    "id": "numbers-04",
+    "text": "The temperature today will reach thirty-two degrees Celsius.",
+    "category": "numbers"
+  },
+  {
+    "id": "everyday-01",
+    "text": "Could you please tell me the time?",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "everyday-02",
+    "text": "I would like to order a coffee with milk, no sugar please.",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "everyday-03",
+    "text": "Excuse me, can you tell me how to get to the nearest subway station?",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "everyday-04",
+    "text": "I need to schedule an appointment for next Tuesday afternoon.",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "everyday-05",
+    "text": "Could you please speak more slowly? I didn't understand.",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "everyday-06",
+    "text": "Thank you for your help. I really appreciate it.",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "everyday-07",
+    "text": "I'm not feeling well today. I think I need to see a doctor.",
+    "category": "everyday-phrases"
+  },
+  {
+    "id": "medical-01",
+    "text": "I have an appointment with Dr. Johnson at eleven thirty.",
+    "category": "medical"
+  },
+  {
+    "id": "medical-02",
+    "text": "I need to refill my prescription for my medication.",
+    "category": "medical"
+  },
+  {
+    "id": "medical-03",
+    "text": "I'm having difficulty swallowing and it hurts when I eat.",
+    "category": "medical"
+  },
+  {
+    "id": "medical-04",
+    "text": "I've been experiencing headaches and dizziness for the past few days.",
+    "category": "medical"
+  },
+  {
+    "id": "medical-05",
+    "text": "My symptoms include fever, cough, and shortness of breath.",
+    "category": "medical"
+  },
+  {
+    "id": "emergency-01",
+    "text": "I need help immediately. This is an emergency.",
+    "category": "emergency"
+  },
+  {
+    "id": "emergency-02",
+    "text": "Please call an ambulance. Someone collapsed.",
+    "category": "emergency"
+  },
+  {
+    "id": "emergency-03",
+    "text": "There's a fire in the building. Everyone needs to evacuate now.",
+    "category": "emergency"
+  },
+  {
+    "id": "emergency-04",
+    "text": "Help! I'm locked out of my house and it's freezing outside.",
+    "category": "emergency"
+  },
+  {
+    "id": "assistive-01",
+    "text": "I use a communication device to help me speak.",
+    "category": "assistive-tech"
+  },
+  {
+    "id": "assistive-02",
+    "text": "Can you please be patient while I type my response?",
+    "category": "assistive-tech"
+  },
+  {
+    "id": "assistive-03",
+    "text": "I need assistance with transferring from my wheelchair.",
+    "category": "assistive-tech"
+  },
+  {
+    "id": "assistive-04",
+    "text": "Could you adjust my screen reader settings, please?",
+    "category": "assistive-tech"
+  },
+  {
+    "id": "personal-01",
+    "text": "My name is John Smith and I live in New York City.",
+    "category": "personal-info"
+  },
+  {
+    "id": "personal-02",
+    "text": "I have a bachelor's degree in computer science.",
+    "category": "personal-info"
+  },
+  {
+    "id": "personal-03",
+    "text": "I've been working as a software developer for five years.",
+    "category": "personal-info"
+  },
+  {
+    "id": "personal-04",
+    "text": "My favorite hobbies include reading books and playing chess.",
+    "category": "personal-info"
+  },
+  {
+    "id": "emotion-01",
+    "text": "I'm feeling really happy today because I got good news.",
+    "category": "emotions"
+  },
+  {
+    "id": "emotion-02",
+    "text": "I'm frustrated because I can't solve this problem.",
+    "category": "emotions"
+  },
+  {
+    "id": "emotion-03",
+    "text": "I'm anxious about my upcoming job interview.",
+    "category": "emotions"
+  },
+  {
+    "id": "emotion-04",
+    "text": "I'm disappointed that the event was canceled.",
+    "category": "emotions"
+  },
+  {
+    "id": "emotion-05",
+    "text": "I'm excited about my vacation next month.",
+    "category": "emotions"
+  },
+  {
+    "id": "complex-01",
+    "text": "Despite the challenges we face, I remain optimistic about the future.",
+    "category": "complex-sentences"
+  },
+  {
+    "id": "complex-02",
+    "text": "The committee, which consists of experts from various fields, will present their findings tomorrow.",
+    "category": "complex-sentences"
+  },
+  {
+    "id": "complex-03",
+    "text": "Although it was raining heavily, they decided to proceed with the outdoor event.",
+    "category": "complex-sentences"
+  },
+  {
+    "id": "complex-04",
+    "text": "The research paper that I submitted last week has been accepted for publication.",
+    "category": "complex-sentences"
+  },
+  {
+    "id": "difficult-01",
+    "text": "The sixth sick sheikh's sixth sheep's sick.",
+    "category": "difficult-pronunciation"
+  },
+  {
+    "id": "difficult-02",
+    "text": "Unique New York, unique New York, you know you need unique New York.",
+    "category": "difficult-pronunciation"
+  },
+  {
+    "id": "difficult-03",
+    "text": "Red lorry, yellow lorry, red lorry, yellow lorry.",
+    "category": "difficult-pronunciation"
+  },
+  {
+    "id": "difficult-04",
+    "text": "The seething sea ceaseth and thus the seething sea sufficeth us.",
+    "category": "difficult-pronunciation"
+  },
+  {
+    "id": "difficult-05",
+    "text": "Six slick slim sycamore saplings.",
+    "category": "difficult-pronunciation"
+  },
+  {
+    "id": "difficult-06",
+    "text": "Toy boat, toy boat, toy boat.",
+    "category": "difficult-pronunciation"
+  },
+  {
+    "id": "consonant-01",
+    "text": "Please put the purple paper in the proper place.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-02",
+    "text": "Tiny Tim took two taxis to town yesterday.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-03",
+    "text": "Betty bought a bit of better butter.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-04",
+    "text": "Danny drew a dragon during drawing day.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-05",
+    "text": "Fifty famous flowers flourished in February.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-06",
+    "text": "Gary gave green glass globes to Grandma.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-07",
+    "text": "Kelly kept the kite kit in the kitchen.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-08",
+    "text": "Larry likes lemon lollipops a lot.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-09",
+    "text": "My mom makes marvelous muffins on Monday mornings.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-10",
+    "text": "Nine nurses needed new notebooks.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-11",
+    "text": "Rachel rarely reads romance novels.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-12",
+    "text": "Sally sells seashells by the seashore.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-13",
+    "text": "The thin thimble fits three threads through.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-14",
+    "text": "Victor visited various villages very vigilantly.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-15",
+    "text": "William wishes winter would warm up.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "consonant-16",
+    "text": "Zack zealously zipped his zebra-striped zipper.",
+    "category": "consonant-practice"
+  },
+  {
+    "id": "vowel-01",
+    "text": "The cat sat on the mat with a hat.",
+    "category": "vowel-practice"
+  },
+  {
+    "id": "vowel-02",
+    "text": "Pete seemed pleased with the sweet cheese.",
+    "category": "vowel-practice"
+  },
+  {
+    "id": "vowel-03",
+    "text": "Mike might like five kites with bright lights.",
+    "category": "vowel-practice"
+  },
+  {
+    "id": "vowel-04",
+    "text": "Joe knows those boats float slowly over the ocean.",
+    "category": "vowel-practice"
+  },
+  {
+    "id": "vowel-05",
+    "text": "The blue moon moved through the room too soon.",
+    "category": "vowel-practice"
+  },
+  {
+    "id": "blend-01",
+    "text": "Please bring three plastic plates to the table.",
+    "category": "consonant-blends"
+  },
+  {
+    "id": "blend-02",
+    "text": "The bright star shone through the clear glass window.",
+    "category": "consonant-blends"
+  },
+  {
+    "id": "blend-03",
+    "text": "Small frogs splash in the spring stream.",
+    "category": "consonant-blends"
+  },
+  {
+    "id": "blend-04",
+    "text": "The twins twisted twelve sticks into strange shapes.",
+    "category": "consonant-blends"
+  },
+  {
+    "id": "blend-05",
+    "text": "The scrawny squirrel squinted at the squashed strawberry.",
+    "category": "consonant-blends"
+  },
+  {
+    "id": "stress-01",
+    "text": "I didn't understand the question. Could you repeat that please?",
+    "category": "stress-intonation"
+  },
+  {
+    "id": "stress-02",
+    "text": "Would you like coffee or tea? I prefer tea, personally.",
+    "category": "stress-intonation"
+  },
+  {
+    "id": "stress-03",
+    "text": "Are you going to the party tomorrow? I'm really looking forward to it!",
+    "category": "stress-intonation"
+  },
+  {
+    "id": "stress-04",
+    "text": "You're late! We've been waiting for over an hour.",
+    "category": "stress-intonation"
+  },
+  {
+    "id": "command-01",
+    "text": "Open the window, please.",
+    "category": "commands"
+  },
+  {
+    "id": "command-02",
+    "text": "Turn on the lights when you enter the room.",
+    "category": "commands"
+  },
+  {
+    "id": "command-03",
+    "text": "Call me back as soon as possible.",
+    "category": "commands"
+  },
+  {
+    "id": "command-04",
+    "text": "Stop talking and listen carefully.",
+    "category": "commands"
+  },
+  {
+    "id": "command-05",
+    "text": "Please send me the document by email.",
+    "category": "commands"
+  },
+  {
+    "id": "question-01",
+    "text": "What time does the movie start?",
+    "category": "questions"
+  },
+  {
+    "id": "question-02",
+    "text": "Where did you put my keys?",
+    "category": "questions"
+  },
+  {
+    "id": "question-03",
+    "text": "How do I get to the nearest post office?",
+    "category": "questions"
+  },
+  {
+    "id": "question-04",
+    "text": "Could you help me with this problem?",
+    "category": "questions"
+  },
+  {
+    "id": "question-05",
+    "text": "Why is the sky blue?",
+    "category": "questions"
+  },
+  {
+    "id": "tech-01",
+    "text": "Please restart your computer and try connecting again.",
+    "category": "technology"
+  },
+  {
+    "id": "tech-02",
+    "text": "I need to update my smartphone's operating system.",
+    "category": "technology"
+  },
+  {
+    "id": "tech-03",
+    "text": "Can you help me set up my Wi-Fi connection?",
+    "category": "technology"
+  },
+  {
+    "id": "tech-04",
+    "text": "I forgot my password and need to reset it.",
+    "category": "technology"
+  },
+  {
+    "id": "tech-05",
+    "text": "Please email me that file as a PDF attachment.",
+    "category": "technology"
+  },
+  {
+    "id": "stutter-01",
+    "text": "My name is Michael and I'm from Michigan.",
+    "category": "stutter-friendly"
+  },
+  {
+    "id": "stutter-02",
+    "text": "Would you like tea or coffee?",
+    "category": "stutter-friendly"
+  },
+  {
+    "id": "stutter-03",
+    "text": "Today is a beautiful day for a walk.",
+    "category": "stutter-friendly"
+  },
+  {
+    "id": "stutter-04",
+    "text": "Let's go to the store later.",
+    "category": "stutter-friendly"
+  },
+  {
+    "id": "stutter-05",
+    "text": "Water is essential for good health.",
+    "category": "stutter-friendly"
+  },
+  {
+    "id": "dysarthria-01",
+    "text": "I like eating apples and oranges.",
+    "category": "dysarthria-friendly"
+  },
+  {
+    "id": "dysarthria-02",
+    "text": "The sun is shining today.",
+    "category": "dysarthria-friendly"
+  },
+  {
+    "id": "dysarthria-03",
+    "text": "Please hand me that pen.",
+    "category": "dysarthria-friendly"
+  },
+  {
+    "id": "dysarthria-04",
+    "text": "My dog likes to play in the park.",
+    "category": "dysarthria-friendly"
+  },
+  {
+    "id": "dysarthria-05",
+    "text": "I would like some soup for lunch.",
+    "category": "dysarthria-friendly"
+  },
+  {
+    "id": "apraxia-01",
+    "text": "Pat the bat with the hat.",
+    "category": "apraxia-friendly"
+  },
+  {
+    "id": "apraxia-02",
+    "text": "Sit in the big red chair.",
+    "category": "apraxia-friendly"
+  },
+  {
+    "id": "apraxia-03",
+    "text": "Take the cake to Jake.",
+    "category": "apraxia-friendly"
+  },
+  {
+    "id": "apraxia-04",
+    "text": "Mom made many muffins.",
+    "category": "apraxia-friendly"
+  },
+  {
+    "id": "apraxia-05",
+    "text": "The fish swims in the dish.",
+    "category": "apraxia-friendly"
+  },
+  {
+    "id": "cluttering-01",
+    "text": "I need to slow down when I speak.",
+    "category": "cluttering-friendly"
+  },
+  {
+    "id": "cluttering-02",
+    "text": "One step at a time helps me communicate clearly.",
+    "category": "cluttering-friendly"
+  },
+  {
+    "id": "cluttering-03",
+    "text": "Pause. Breathe. Then continue speaking.",
+    "category": "cluttering-friendly"
+  },
+  {
+    "id": "cluttering-04",
+    "text": "I will focus on pronouncing each word carefully.",
+    "category": "cluttering-friendly"
+  },
+  {
+    "id": "cluttering-05",
+    "text": "Speak slowly and think about each sentence.",
+    "category": "cluttering-friendly"
+  },
+  {
+    "id": "narrative-01",
+    "text": "Yesterday I went to the store to buy some groceries. I needed milk, bread, and eggs. The store was very crowded.",
+    "category": "narrative"
+  },
+  {
+    "id": "narrative-02",
+    "text": "My favorite season is autumn because the leaves change colors. I love the red and orange trees.",
+    "category": "narrative"
+  },
+  {
+    "id": "narrative-03",
+    "text": "Last weekend, I visited my grandmother. She made her famous chocolate chip cookies. They were delicious.",
+    "category": "narrative"
+  },
+  {
+    "id": "narrative-04",
+    "text": "I have a pet cat named Luna. She has black fur and green eyes. Luna loves to sleep on my lap while I read.",
+    "category": "narrative"
+  },
+  {
+    "id": "conversation-01",
+    "text": "Hello, how are you today? I'm doing well, thank you for asking.",
+    "category": "conversation"
+  },
+  {
+    "id": "conversation-02",
+    "text": "What did you do this weekend? I went hiking with some friends.",
+    "category": "conversation"
+  },
+  {
+    "id": "conversation-03",
+    "text": "It's nice to meet you. My name is Sarah. What's your name?",
+    "category": "conversation"
+  },
+  {
+    "id": "conversation-04",
+    "text": "Would you like to join us for dinner tonight? That sounds wonderful, what time should I come?",
+    "category": "conversation"
+  },
+  {
+    "id": "date-time-01",
+    "text": "My appointment is on Monday, March fifteenth at two thirty p.m.",
+    "category": "date-time"
+  },
+  {
+    "id": "date-time-02",
+    "text": "The store opens at nine a.m. and closes at eight p.m. on weekdays.",
+    "category": "date-time"
+  },
+  {
+    "id": "date-time-03",
+    "text": "Let's meet next Thursday at half past seven in the evening.",
+    "category": "date-time"
+  },
+  {
+    "id": "date-time-04",
+    "text": "The concert will be held on July twenty-first, twenty twenty-five.",
+    "category": "date-time"
+  },
+  {
+    "id": "address-01",
+    "text": "I live at one two three Main Street, Apartment four B, New York, New York, one zero zero two three.",
+    "category": "address"
+  },
+  {
+    "id": "address-02",
+    "text": "Please deliver the package to five six seven Oak Avenue, Chicago, Illinois, six zero six one five.",
+    "category": "address"
+  },
+  {
+    "id": "address-03",
+    "text": "The office is located at eight nine zero Pine Boulevard, Suite three zero zero, Los Angeles, California.",
+    "category": "address"
+  },
+  {
+    "id": "address-04",
+    "text": "Our new house is at four four four Maple Drive, Portland, Oregon, nine seven two zero one.",
+    "category": "address"
+  },
+  {
+    "id": "weather-01",
+    "text": "Today will be sunny with a high of seventy-five degrees.",
+    "category": "weather"
+  },
+  {
+    "id": "weather-02",
+    "text": "There's a chance of thunderstorms this afternoon, with heavy rain expected.",
+    "category": "weather"
+  },
+  {
+    "id": "weather-03",
+    "text": "The forecast calls for snow tomorrow, with temperatures below freezing.",
+    "category": "weather"
+  },
+  {
+    "id": "weather-04",
+    "text": "It's a beautiful day with clear skies and a gentle breeze.",
+    "category": "weather"
+  },
+  {
+    "id": "food-01",
+    "text": "I would like to order a large pepperoni pizza with extra cheese.",
+    "category": "food"
+  },
+  {
+    "id": "food-02",
+    "text": "For breakfast, I usually have oatmeal with fresh fruit and a cup of coffee.",
+    "category": "food"
+  },
+  {
+    "id": "food-03",
+    "text": "My favorite dessert is chocolate cake with vanilla ice cream.",
+    "category": "food"
+  },
+  {
+    "id": "food-04",
+    "text": "Do you have any vegetarian options on the menu?",
+    "category": "food"
+  },
+  {
+    "id": "travel-01",
+    "text": "I need to book a flight from New York to London for next month.",
+    "category": "travel"
+  },
+  {
+    "id": "travel-02",
+    "text": "What time does the train to Boston depart?",
+    "category": "travel"
+  },
+  {
+    "id": "travel-03",
+    "text": "I'd like to reserve a rental car for my vacation in Florida.",
+    "category": "travel"
+  },
+  {
+    "id": "travel-04",
+    "text": "Could you recommend some attractions to visit in San Francisco?",
+    "category": "travel"
+  },
+  {
+    "id": "finance-01",
+    "text": "I need to deposit this check into my savings account.",
+    "category": "finance"
+  },
+  {
+    "id": "finance-02",
+    "text": "What is the current interest rate for a thirty-year mortgage?",
+    "category": "finance"
+  },
+  {
+    "id": "finance-03",
+    "text": "I would like to transfer five hundred dollars from my checking to my savings account.",
+    "category": "finance"
+  },
+  {
+    "id": "finance-04",
+    "text": "How much will it cost to renew my car insurance policy?",
+    "category": "finance"
+  },
+  {
+    "id": "long-01",
+    "text": "Artificial intelligence has made significant progress in recent years. Voice recognition systems can now understand various accents and speech patterns with increasing accuracy. This technology helps people with speech impairments communicate more effectively in their daily lives.",
+    "category": "long-passages"
+  },
+  {
+    "id": "long-02",
+    "text": "The library offers many resources for people of all ages. There are books, magazines, computers, and educational programs available. Visitors can borrow materials for up to three weeks with their library card. The library is open from nine a.m. to seven p.m. Monday through Friday.",
+    "category": "long-passages"
+  },
+  {
+    "id": "long-03",
+    "text": "Planning a balanced meal includes choosing foods from different food groups. Vegetables and fruits provide essential vitamins and minerals. Whole grains offer fiber and energy. Protein foods help build and repair body tissues. It's also important to stay hydrated by drinking plenty of water throughout the day.",
+    "category": "long-passages"
+  },
+  {
+    "id": "long-04",
+    "text": "Regular exercise has many health benefits. It strengthens your heart and lungs, builds muscle, and helps maintain a healthy weight. Physical activity can also improve your mood and help you sleep better. Experts recommend at least thirty minutes of moderate exercise most days of the week.",
+    "category": "long-passages"
+  },
+  {
+    "id": "multiword-01",
+    "text": "Can you turn on the air conditioning, please?",
+    "category": "multiword-commands"
+  },
+  {
+    "id": "multiword-02",
+    "text": "Please schedule my dentist appointment for next week.",
+    "category": "multiword-commands"
+  },
+  {
+    "id": "multiword-03",
+    "text": "Set a reminder for my medication at 9 PM.",
+    "category": "multiword-commands"
+  },
+  {
+    "id": "multiword-04",
+    "text": "Add milk, eggs, and bread to my shopping list.",
+    "category": "multiword-commands"
+  },
+  {
+    "id": "multiword-05",
+    "text": "Call my sister on her mobile phone.",
+    "category": "multiword-commands"
+  },
+  {
+    "id": "homophone-01",
+    "text": "I need to buy a new pair of shoes.",
+    "category": "homophones"
+  },
+  {
+    "id": "homophone-02",
+    "text": "The sun will rise at six o'clock tomorrow.",
+    "category": "homophones"
+  },
+  {
+    "id": "homophone-03",
+    "text": "Can you hear the birds singing in the trees?",
+    "category": "homophones"
+  },
+  {
+    "id": "homophone-04",
+    "text": "We're going to their house for dinner tonight.",
+    "category": "homophones"
+  },
+  {
+    "id": "homophone-05",
+    "text": "I'll meet you by the beach near the pier.",
+    "category": "homophones"
+  },
+  {
+    "id": "regional-01",
+    "text": "Y'all should come over for a barbecue this weekend.",
+    "category": "regional-dialects"
+  },
+  {
+    "id": "regional-02",
+    "text": "I reckon it's going to rain later today.",
+    "category": "regional-dialects"
+  },
+  {
+    "id": "regional-03",
+    "text": "That movie was wicked good, we should watch it again.",
+    "category": "regional-dialects"
+  },
+  {
+    "id": "regional-04",
+    "text": "Can you put the groceries in the shopping cart?",
+    "category": "regional-dialects"
+  },
+  {
+    "id": "regional-05",
+    "text": "Let's take the subway downtown to see the museum.",
+    "category": "regional-dialects"
+  },
+  {
+    "id": "education-01",
+    "text": "I need to register for my college classes this semester.",
+    "category": "education"
+  },
+  {
+    "id": "education-02",
+    "text": "When is the deadline for submitting the research paper?",
+    "category": "education"
+  },
+  {
+    "id": "education-03",
+    "text": "The library has study rooms available for group projects.",
+    "category": "education"
+  },
+  {
+    "id": "education-04",
+    "text": "My daughter's elementary school starts at eight thirty in the morning.",
+    "category": "education"
+  },
+  {
+    "id": "education-05",
+    "text": "I need to prepare my presentation for tomorrow's science class.",
+    "category": "education"
+  },
+  {
+    "id": "workplace-01",
+    "text": "Could we reschedule this morning's meeting to next Monday?",
+    "category": "workplace"
+  },
+  {
+    "id": "workplace-02",
+    "text": "I'll send you the quarterly report by end of business today.",
+    "category": "workplace"
+  },
+  {
+    "id": "workplace-03",
+    "text": "Let's discuss the project timeline during our video conference.",
+    "category": "workplace"
+  },
+  {
+    "id": "workplace-04",
+    "text": "Do you have time for a quick review of my presentation slides?",
+    "category": "workplace"
+  },
+  {
+    "id": "workplace-05",
+    "text": "The annual performance evaluations will be conducted next month.",
+    "category": "workplace"
+  },
+  {
+    "id": "transport-01",
+    "text": "What time does the last bus leave from downtown?",
+    "category": "transportation"
+  },
+  {
+    "id": "transport-02",
+    "text": "Can you help me find the nearest charging station for my electric car?",
+    "category": "transportation"
+  },
+  {
+    "id": "transport-03",
+    "text": "I need to renew my driver's license before it expires next week.",
+    "category": "transportation"
+  },
+  {
+    "id": "transport-04",
+    "text": "Is there a direct flight from Chicago to San Francisco?",
+    "category": "transportation"
+  },
+  {
+    "id": "transport-05",
+    "text": "The subway is faster than taking a taxi during rush hour.",
+    "category": "transportation"
+  },
+  {
+    "id": "banking-01",
+    "text": "I'd like to open a new savings account with automatic deposits.",
+    "category": "banking"
+  },
+  {
+    "id": "banking-02",
+    "text": "What's the current interest rate for a home equity loan?",
+    "category": "banking"
+  },
+  {
+    "id": "banking-03",
+    "text": "I need to report a suspicious transaction on my credit card.",
+    "category": "banking"
+  },
+  {
+    "id": "banking-04",
+    "text": "Can I set up a recurring payment for my monthly bills?",
+    "category": "banking"
+  },
+  {
+    "id": "banking-05",
+    "text": "I forgot my PIN number and need to reset it.",
+    "category": "banking"
+  },
+  {
+    "id": "entertainment-01",
+    "text": "What time does the movie start at the local theater?",
+    "category": "entertainment"
+  },
+  {
+    "id": "entertainment-02",
+    "text": "I'd like to purchase tickets for the concert next Saturday.",
+    "category": "entertainment"
+  },
+  {
+    "id": "entertainment-03",
+    "text": "Can you recommend a good science fiction book to read?",
+    "category": "entertainment"
+  },
+  {
+    "id": "entertainment-04",
+    "text": "What channel is broadcasting the football game tonight?",
+    "category": "entertainment"
+  },
+  {
+    "id": "entertainment-05",
+    "text": "We're planning to visit the art museum this weekend.",
+    "category": "entertainment"
+  },
+  {
+    "id": "shopping-01",
+    "text": "Do you have this shirt available in a medium size?",
+    "category": "shopping"
+  },
+  {
+    "id": "shopping-02",
+    "text": "I'd like to return this item; I have the receipt with me.",
+    "category": "shopping"
+  },
+  {
+    "id": "shopping-03",
+    "text": "What aisle can I find the breakfast cereals in?",
+    "category": "shopping"
+  },
+  {
+    "id": "shopping-04",
+    "text": "Is this product on sale, or is this the regular price?",
+    "category": "shopping"
+  },
+  {
+    "id": "shopping-05",
+    "text": "Do you offer free shipping for online orders over fifty dollars?",
+    "category": "shopping"
+  },
+  {
+    "id": "tech-usage-01",
+    "text": "How do I connect my smartphone to the wireless network?",
+    "category": "tech-usage"
+  },
+  {
+    "id": "tech-usage-02",
+    "text": "Can you help me install this application on my tablet?",
+    "category": "tech-usage"
+  },
+  {
+    "id": "tech-usage-03",
+    "text": "I need to update my password for better security.",
+    "category": "tech-usage"
+  },
+  {
+    "id": "tech-usage-04",
+    "text": "How do I transfer photos from my phone to my computer?",
+    "category": "tech-usage"
+  },
+  {
+    "id": "tech-usage-05",
+    "text": "Is there a way to back up all my data automatically?",
+    "category": "tech-usage"
+  },
+  {
+    "id": "home-01",
+    "text": "The washing machine cycle takes about forty-five minutes to complete.",
+    "category": "home-life"
+  },
+  {
+    "id": "home-02",
+    "text": "Can you help me move this furniture to the other room?",
+    "category": "home-life"
+  },
+  {
+    "id": "home-03",
+    "text": "I need to fix the leaking faucet in the bathroom sink.",
+    "category": "home-life"
+  },
+  {
+    "id": "home-04",
+    "text": "Let's prepare a special dinner for our anniversary.",
+    "category": "home-life"
+  },
+  {
+    "id": "home-05",
+    "text": "Don't forget to water the plants while I'm away.",
+    "category": "home-life"
+  },
+  {
+    "id": "sports-01",
+    "text": "My favorite team won the championship game last night.",
+    "category": "sports"
+  },
+  {
+    "id": "sports-02",
+    "text": "I go jogging in the park every morning before work.",
+    "category": "sports"
+  },
+  {
+    "id": "sports-03",
+    "text": "The swimming pool opens at six a.m. for lap swimmers.",
+    "category": "sports"
+  },
+  {
+    "id": "sports-04",
+    "text": "We need to register for the community basketball league.",
+    "category": "sports"
+  },
+  {
+    "id": "sports-05",
+    "text": "The yoga class helps me relax after a stressful day.",
+    "category": "sports"
+  },
+  {
+    "id": "health-service-01",
+    "text": "I need to schedule a follow-up appointment with my doctor.",
+    "category": "health-services"
+  },
+  {
+    "id": "health-service-02",
+    "text": "Where can I get my prescription filled nearby?",
+    "category": "health-services"
+  },
+  {
+    "id": "health-service-03",
+    "text": "Does my insurance cover physical therapy sessions?",
+    "category": "health-services"
+  },
+  {
+    "id": "health-service-04",
+    "text": "I'd like to speak to a specialist about my ongoing symptoms.",
+    "category": "health-services"
+  },
+  {
+    "id": "health-service-05",
+    "text": "What are the visiting hours at the hospital?",
+    "category": "health-services"
+  },
+  {
+    "id": "holiday-01",
+    "text": "We're planning a family gathering for Thanksgiving dinner.",
+    "category": "holidays"
+  },
+  {
+    "id": "holiday-02",
+    "text": "What time does the New Year's Eve celebration start?",
+    "category": "holidays"
+  },
+  {
+    "id": "holiday-03",
+    "text": "I need to buy gifts for everyone on my Christmas list.",
+    "category": "holidays"
+  },
+  {
+    "id": "holiday-04",
+    "text": "The children are excited about trick-or-treating on Halloween.",
+    "category": "holidays"
+  },
+  {
+    "id": "holiday-05",
+    "text": "We always watch fireworks on the Fourth of July.",
+    "category": "holidays"
+  },
+  {
+    "id": "nature-01",
+    "text": "The autumn leaves are especially beautiful this year.",
+    "category": "nature"
+  },
+  {
+    "id": "nature-02",
+    "text": "We saw a family of deer while hiking in the mountains.",
+    "category": "nature"
+  },
+  {
+    "id": "nature-03",
+    "text": "The garden is full of colorful flowers in the spring.",
+    "category": "nature"
+  },
+  {
+    "id": "nature-04",
+    "text": "I love the sound of ocean waves crashing on the shore.",
+    "category": "nature"
+  },
+  {
+    "id": "nature-05",
+    "text": "We should plant more trees to help the environment.",
+    "category": "nature"
+  },
+  {
+    "id": "restaurant-01",
+    "text": "I'd like to make a reservation for four people at seven o'clock.",
+    "category": "restaurant"
+  },
+  {
+    "id": "restaurant-02",
+    "text": "Do you have any vegetarian options on the menu?",
+    "category": "restaurant"
+  },
+  {
+    "id": "restaurant-03",
+    "text": "Could I get the dressing on the side for my salad, please?",
+    "category": "restaurant"
+  },
+  {
+    "id": "restaurant-04",
+    "text": "I have a food allergy; does this dish contain nuts?",
+    "category": "restaurant"
+  },
+  {
+    "id": "restaurant-05",
+    "text": "May I see the dessert menu, please?",
+    "category": "restaurant"
+  },
+  {
+    "id": "community-01",
+    "text": "The neighborhood association meets on the first Tuesday of each month.",
+    "category": "community"
+  },
+  {
+    "id": "community-02",
+    "text": "We're organizing a cleanup day for the local park.",
+    "category": "community"
+  },
+  {
+    "id": "community-03",
+    "text": "The community center offers free classes for senior citizens.",
+    "category": "community"
+  },
+  {
+    "id": "community-04",
+    "text": "I'd like to volunteer at the food bank this weekend.",
+    "category": "community"
+  },
+  {
+    "id": "community-05",
+    "text": "The farmers' market is open every Saturday morning downtown.",
+    "category": "community"
+  },
+  {
+    "id": "idiomatic-01",
+    "text": "It's raining cats and dogs outside; better take an umbrella.",
+    "category": "idiomatic-expressions"
+  },
+  {
+    "id": "idiomatic-02",
+    "text": "Let's cross that bridge when we come to it.",
+    "category": "idiomatic-expressions"
+  },
+  {
+    "id": "idiomatic-03",
+    "text": "The presentation went well; I think I hit the nail on the head.",
+    "category": "idiomatic-expressions"
+  },
+  {
+    "id": "idiomatic-04",
+    "text": "Finding a solution was like looking for a needle in a haystack.",
+    "category": "idiomatic-expressions"
+  },
+  {
+    "id": "idiomatic-05",
+    "text": "Learning a new language is a piece of cake for some people.",
+    "category": "idiomatic-expressions"
+  },
+  {
+    "id": "professional-01",
+    "text": "I'd like to discuss the possibility of a promotion in my next review.",
+    "category": "professional-development"
+  },
+  {
+    "id": "professional-02",
+    "text": "The conference offers great networking opportunities for professionals.",
+    "category": "professional-development"
+  },
+  {
+    "id": "professional-03",
+    "text": "I'm taking an online course to improve my programming skills.",
+    "category": "professional-development"
+  },
+  {
+    "id": "professional-04",
+    "text": "My resume highlights my experience in project management.",
+    "category": "professional-development"
+  },
+  {
+    "id": "professional-05",
+    "text": "The workshop will cover leadership strategies for new managers.",
+    "category": "professional-development"
+  },
+  {
+    "id": "rare-words-01",
+    "text": "The ambidextrous artist could paint with both hands simultaneously.",
+    "category": "rare-words"
+  },
+  {
+    "id": "rare-words-02",
+    "text": "The clandestine meeting took place after midnight.",
+    "category": "rare-words"
+  },
+  {
+    "id": "rare-words-03",
+    "text": "The professor's dissertation was a quintessential example of scholarly research.",
+    "category": "rare-words"
+  },
+  {
+    "id": "rare-words-04",
+    "text": "Her mellifluous voice captivated the entire audience.",
+    "category": "rare-words"
+  },
+  {
+    "id": "rare-words-05",
+    "text": "The juxtaposition of old and new architecture created an interesting cityscape.",
+    "category": "rare-words"
+  },
+  {
+    "id": "compound-words-01",
+    "text": "I need to troubleshoot the problem with my laptop.",
+    "category": "compound-words"
+  },
+  {
+    "id": "compound-words-02",
+    "text": "The earthquake caused widespread damage throughout the region.",
+    "category": "compound-words"
+  },
+  {
+    "id": "compound-words-03",
+    "text": "Please don't forget to bookmark this webpage for future reference.",
+    "category": "compound-words"
+  },
+  {
+    "id": "compound-words-04",
+    "text": "The breakthrough in research could lead to new treatments.",
+    "category": "compound-words"
+  },
+  {
+    "id": "compound-words-05",
+    "text": "We should waterproof the basement before the rainy season.",
+    "category": "compound-words"
+  },
+  {
+    "id": "sibilant-01",
+    "text": "She sells seashells by the seashore, and the shells she sells are surely seashells.",
+    "category": "sibilant-sounds"
+  },
+  {
+    "id": "sibilant-02",
+    "text": "The suspicious system supposedly simplified sensitive statistical solutions.",
+    "category": "sibilant-sounds"
+  },
+  {
+    "id": "sibilant-03",
+    "text": "Suddenly, seven slithering snakes started sliding swiftly sideways.",
+    "category": "sibilant-sounds"
+  },
+  {
+    "id": "sibilant-04",
+    "text": "Susan's sister Samantha successfully sold sixty-six specialty shoes.",
+    "category": "sibilant-sounds"
+  },
+  {
+    "id": "sibilant-05",
+    "text": "Several socializing citizens discussed seasonal changes ceaselessly.",
+    "category": "sibilant-sounds"
+  },
+  {
+    "id": "plosive-01",
+    "text": "Peter Piper picked a peck of pickled peppers, a peck of pickled peppers Peter Piper picked.",
+    "category": "plosive-sounds"
+  },
+  {
+    "id": "plosive-02",
+    "text": "The bitter butter made the batter better.",
+    "category": "plosive-sounds"
+  },
+  {
+    "id": "plosive-03",
+    "text": "The dog dug a deep dark den down by the dense dreary dump.",
+    "category": "plosive-sounds"
+  },
+  {
+    "id": "plosive-04",
+    "text": "Tim took two tickets to Town Theater this Thursday.",
+    "category": "plosive-sounds"
+  },
+  {
+    "id": "plosive-05",
+    "text": "Gary gave green glass globes graciously to grateful guests.",
+    "category": "plosive-sounds"
+  },
+  {
+    "id": "nasal-01",
+    "text": "Many men made money manufacturing miniature machines.",
+    "category": "nasal-sounds"
+  },
+  {
+    "id": "nasal-02",
+    "text": "Nancy never knew naming nine numbers needed notable numeracy.",
+    "category": "nasal-sounds"
+  },
+  {
+    "id": "nasal-03",
+    "text": "The morning mountains maintain magnificent moonlight memories.",
+    "category": "nasal-sounds"
+  },
+  {
+    "id": "nasal-04",
+    "text": "Enormous engines energize entire engineering enterprises.",
+    "category": "nasal-sounds"
+  },
+  {
+    "id": "nasal-05",
+    "text": "The singing brings ringing in my inner earring sometimes.",
+    "category": "nasal-sounds"
+  },
+  {
+    "id": "contractions-01",
+    "text": "I can't believe they won't be attending the conference.",
+    "category": "contractions"
+  },
+  {
+    "id": "contractions-02",
+    "text": "We're planning to visit, but we haven't decided when.",
+    "category": "contractions"
+  },
+  {
+    "id": "contractions-03",
+    "text": "It's important that you don't miss the deadline.",
+    "category": "contractions"
+  },
+  {
+    "id": "contractions-04",
+    "text": "They'd have helped if they'd known you needed assistance.",
+    "category": "contractions"
+  },
+  {
+    "id": "contractions-05",
+    "text": "I wouldn't have said that if I'd known she wasn't feeling well.",
+    "category": "contractions"
+  },
+  {
+    "id": "emotion-intensity-01",
+    "text": "I'm absolutely thrilled about the surprise birthday party!",
+    "category": "emotion-intensity"
+  },
+  {
+    "id": "emotion-intensity-02",
+    "text": "I'm completely devastated by the news of the accident.",
+    "category": "emotion-intensity"
+  },
+  {
+    "id": "emotion-intensity-03",
+    "text": "We're extremely grateful for your generous donation.",
+    "category": "emotion-intensity"
+  },
+  {
+    "id": "emotion-intensity-04",
+    "text": "I'm terribly sorry for the inconvenience this has caused.",
+    "category": "emotion-intensity"
+  },
+  {
+    "id": "emotion-intensity-05",
+    "text": "The team is incredibly proud of their accomplishment.",
+    "category": "emotion-intensity"
+  }
+]
